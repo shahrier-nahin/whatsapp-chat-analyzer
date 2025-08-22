@@ -19,7 +19,7 @@ A Streamlit web application to analyze WhatsApp chat data. Upload your exported 
 
 ## Demo
 
-You can deploy this app easily on Streamlit Community Cloud:  
+Try the live app here:
 [https://whatsapp-chat-analyzer--b48.streamlit.app/](https://whatsapp-chat-analyzer--b48.streamlit.app/)
 
 
